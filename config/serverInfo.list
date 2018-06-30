@@ -1,0 +1,3 @@
+#ip	 				usersname	password	directory			file
+192.168.172.128		shiwei		shiwei		/home/shiwei/demo	testfile_*.log
+192.168.172.128		shiwei		shiwei		/home/shiwei/demo1	testfile_*.log

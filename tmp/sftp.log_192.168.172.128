@@ -1,0 +1,55 @@
+Remote working directory is /home/shiwei
+psftp> Remote directory is now /home/shiwei/demo1
+psftp> New local directory is C:\github\autoGetFile\20180630\192.168.172.128
+psftp> remote:/home/shiwei/demo1/testfile_200.log => local:testfile_200.log
+remote:/home/shiwei/demo1/testfile_201.log => local:testfile_201.log
+remote:/home/shiwei/demo1/testfile_202.log => local:testfile_202.log
+remote:/home/shiwei/demo1/testfile_203.log => local:testfile_203.log
+remote:/home/shiwei/demo1/testfile_204.log => local:testfile_204.log
+remote:/home/shiwei/demo1/testfile_205.log => local:testfile_205.log
+remote:/home/shiwei/demo1/testfile_206.log => local:testfile_206.log
+remote:/home/shiwei/demo1/testfile_207.log => local:testfile_207.log
+remote:/home/shiwei/demo1/testfile_208.log => local:testfile_208.log
+remote:/home/shiwei/demo1/testfile_209.log => local:testfile_209.log
+remote:/home/shiwei/demo1/testfile_210.log => local:testfile_210.log
+psftp> done. 
+[2018-06-30  9:54:09] [INFO] End to get files from server 192.168.172.128 successfully. 
+done. 
+ 
+[2018-06-30  9:55:25] [INFO] Start to get files from server 192.168.172.128, please wait. 
+Remote working directory is /home/shiwei
+psftp> Remote directory is now /home/shiwei/demo
+psftp> New local directory is C:\github\autoGetFile\20180630\192.168.172.128
+psftp> remote:/home/shiwei/demo/testfile_100.log => local:testfile_100.log
+remote:/home/shiwei/demo/testfile_101.log => local:testfile_101.log
+remote:/home/shiwei/demo/testfile_102.log => local:testfile_102.log
+remote:/home/shiwei/demo/testfile_103.log => local:testfile_103.log
+remote:/home/shiwei/demo/testfile_104.log => local:testfile_104.log
+remote:/home/shiwei/demo/testfile_105.log => local:testfile_105.log
+remote:/home/shiwei/demo/testfile_106.log => local:testfile_106.log
+remote:/home/shiwei/demo/testfile_107.log => local:testfile_107.log
+remote:/home/shiwei/demo/testfile_108.log => local:testfile_108.log
+remote:/home/shiwei/demo/testfile_109.log => local:testfile_109.log
+remote:/home/shiwei/demo/testfile_110.log => local:testfile_110.log
+psftp> done. 
+[2018-06-30  9:55:25] [INFO] End to get files from server 192.168.172.128 successfully. 
+done. 
+ 
+[2018-06-30  9:55:25] [INFO] Start to get files from server 192.168.172.128, please wait. 
+Remote working directory is /home/shiwei
+psftp> Remote directory is now /home/shiwei/demo1
+psftp> New local directory is C:\github\autoGetFile\20180630\192.168.172.128
+psftp> remote:/home/shiwei/demo1/testfile_200.log => local:testfile_200.log
+remote:/home/shiwei/demo1/testfile_201.log => local:testfile_201.log
+remote:/home/shiwei/demo1/testfile_202.log => local:testfile_202.log
+remote:/home/shiwei/demo1/testfile_203.log => local:testfile_203.log
+remote:/home/shiwei/demo1/testfile_204.log => local:testfile_204.log
+remote:/home/shiwei/demo1/testfile_205.log => local:testfile_205.log
+remote:/home/shiwei/demo1/testfile_206.log => local:testfile_206.log
+remote:/home/shiwei/demo1/testfile_207.log => local:testfile_207.log
+remote:/home/shiwei/demo1/testfile_208.log => local:testfile_208.log
+remote:/home/shiwei/demo1/testfile_209.log => local:testfile_209.log
+remote:/home/shiwei/demo1/testfile_210.log => local:testfile_210.log
+psftp> done. 
+[2018-06-30  9:55:25] [INFO] End to get files from server 192.168.172.128 successfully. 
+done. 

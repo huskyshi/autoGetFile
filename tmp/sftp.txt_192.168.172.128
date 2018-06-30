@@ -1,0 +1,4 @@
+cd /home/shiwei/demo1 
+lcd "C:\github\autoGetFile\"20180630\192.168.172.128 
+mget testfile_*.log 
+bye 
